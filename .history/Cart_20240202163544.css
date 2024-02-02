@@ -42,7 +42,9 @@
     padding: 10px;
     background-color: green;
     color: white;
-    border: none;
+    border: none; 
     cursor: pointer;
+
+    /*yay*/
   }
   
